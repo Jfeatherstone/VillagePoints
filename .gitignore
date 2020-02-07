@@ -1,0 +1,13 @@
+# Ignore all text files so we don't include logs
+*.txt
+*.log
+
+# And our credentials
+*.pickle
+*.json
+
+# All spreadsheets
+*.xlsx
+
+# The Jupyter notebook files
+.ipynb_checkpoints/
